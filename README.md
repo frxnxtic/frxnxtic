@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Denys</h1>
-<h3 align="center">A growing mobile app developer based in Banska Bystrica, Slovakia</h3>
+<h3 align="center">A growing mobile and desktop app developer from Kharkiv, Ukraine based in Banska Bystrica, Slovakia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=frxnxtic&label=Profile%20views&color=0e75b6&style=flat" alt="frxnxtic" /> </p>
 
