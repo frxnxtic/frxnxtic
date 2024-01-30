@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=frxnxtic&label=Profile%20views&color=0e75b6&style=flat" alt="frxnxtic" /> </p>
 
-- 🌱 I’m currently learning **Java, Kotlin, C++, C, HTML/CSS/JS**
+- 🌱 I’m currently learning **Java, Kotlin, C++, C, HTML/CSS/JS, Rust, C#, PHP**
 
-- 📫 You can contact me **dkozlov@student.umb.sk**
+- 📫 You can contact me **dkozlov@umb.sk**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
