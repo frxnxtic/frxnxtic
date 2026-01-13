@@ -1,21 +1,62 @@
-<h1 align="center">Hi 👋, I'm Denys</h1>
-<h3 align="center">A growing software developer from Kharkiv, Ukraine based in Banska Bystrica, Slovakia</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=frxnxtic&label=Profile%20views&color=0e75b6&style=flat" alt="frxnxtic" /> </p>
-
-- 🌱 I’m currently learning **Java, C++, C, HTML/CSS/JS, Rust, C#, PHP, Spring Boot, GraphQL, Cypher**
-
-- 📫 You can contact me **dkozlov@umb.sk**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/denys-kozlov-14869b25b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="denys-kozlov-14869b25b" height="30" width="40" /></a>
-<a href="https://instagram.com/kxz1xv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="frxnxtic" height="30" width="40" /></a>
+<h1 align="center">Denys Kozlov</h1>
+<h3 align="center">Rust Backend / Systems Engineer</h3>
+<p align="center">
+  Building secure, reliable services with async Rust • Production experience with observability & clean architecture
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://linkedin.com/in/denys-kozlov-14869b25b">LinkedIn</a> •
+  <a href="mailto:denys.kozlov.work@gmail.com">Email</a> •
+  📍 Banská Bystrica, Slovakia
+</p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=frxnxtic&show_icons=true&locale=en&layout=compact" alt="frxnxtic" /></p>
+---
 
-<p align="left"> <a href="https://www.codewars.com/users/frxnxtic" target="_blank" rel="noreferrer"><img src="https://www.codewars.com/users/frxnxtic/badges/small"/></a></p>
+### 👨‍💻 About Me
+
+Rust backend engineer focused on **production-grade systems**: async APIs, structured logging, database design, and security-by-design. 
+
+Currently working on internal Rust services for document processing and inventory management. Previous experience in .NET architecture leadership, Node.js + AWS, and cybersecurity (Wazuh, incident response).
+
+**Open to EU remote opportunities** in backend/systems engineering.
+
+---
+
+### 🛠 Tech Stack
+
+**Primary:**  
+`Rust` • `async/Tokio` • `Warp` • `SeaORM` • `PostgreSQL` • `REST APIs`
+
+**Backend & Infrastructure:**  
+`C#/ASP.NET` • `Node.js/NestJS` • `Docker` • `AWS` • `CI/CD`
+
+**Security & Observability:**  
+`Wazuh` • `Structured logging` • `Request tracing` • `Incident response`
+
+---
+
+### 🚀 Featured Work
+
+**🦀 Rust Warehouse Inventory (RWI)**  
+Production-grade Rust service: Warp API + CLI, async pipeline, SeaORM migrations, fuzzy matching, structured logging, tests & coverage.  
+_[Coming soon: sanitized public version]_
+
+**💼 .NET Platform Redesign (NDA)**  
+Led architecture migration from legacy JSP/Oracle to modern ASP.NET + MS SQL. Defined Git workflows, project structure, Windows auth integration.
+
+**🔒 Security & Incident Response**  
+Deployed Wazuh SIEM, threat detection pipelines, incident handling in production university environment.
+
+---
+
+### 📫 Let's Connect
+
+- 💼 **LinkedIn:** [denys-kozlov-14869b25b](https://linkedin.com/in/denys-kozlov-14869b25b)
+- 📧 **Email:** denys.kozlov.work@gmail.com
+- 🌐 **Languages:** English (daily technical calls), Ukrainian/Russian (native), Slovak (professional)
+
+---
+
+<p align="center">
+  <i>Interested in Rust backend, systems engineering, security-by-design, and distributed systems.</i>
+</p>
