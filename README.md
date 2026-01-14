@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/denys-kozlov-14869b25b">LinkedIn</a> •
+  <a href="https://linkedin.com/in/denys-kozlov">LinkedIn</a> •
   <a href="mailto:denys.kozlov.work@gmail.com">Email</a> •
   📍 Banská Bystrica, Slovakia
 </p>
@@ -50,7 +50,7 @@ Deployed Wazuh SIEM, threat detection pipelines, incident handling in production
 
 ### 📫 Let's Connect
 
-- 💼 **LinkedIn:** [denys-kozlov-14869b25b](https://linkedin.com/in/denys-kozlov)
+- 💼 **LinkedIn:** [denys-kozlov](https://linkedin.com/in/denys-kozlov)
 - 📧 **Email:** denys.kozlov.work@gmail.com
 - 🌐 **Languages:** English (daily technical calls), Ukrainian/Russian (native), Slovak (professional)
 
