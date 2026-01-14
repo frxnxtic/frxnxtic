@@ -39,7 +39,6 @@ Currently working on internal Rust services for document processing and inventor
 
 **🦀 Rust Warehouse Inventory (RWI)**  
 Production-grade Rust service: Warp API + CLI, async pipeline, SeaORM migrations, fuzzy matching, structured logging, tests & coverage.  
-_[Coming soon: sanitized public version]_
 
 **💼 .NET Platform Redesign (NDA)**  
 Led architecture migration from legacy JSP/Oracle to modern ASP.NET + MS SQL. Defined Git workflows, project structure, Windows auth integration.
@@ -51,7 +50,7 @@ Deployed Wazuh SIEM, threat detection pipelines, incident handling in production
 
 ### 📫 Let's Connect
 
-- 💼 **LinkedIn:** [denys-kozlov-14869b25b](https://linkedin.com/in/denys-kozlov-14869b25b)
+- 💼 **LinkedIn:** [denys-kozlov-14869b25b](https://linkedin.com/in/denys-kozlov)
 - 📧 **Email:** denys.kozlov.work@gmail.com
 - 🌐 **Languages:** English (daily technical calls), Ukrainian/Russian (native), Slovak (professional)
 
